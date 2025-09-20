@@ -7,6 +7,7 @@ public class Main {
         System.out.println("git update");
         System.out.println("feature/20250920");
         System.out.println("debug message , do not commit!!!");
+        System.out.println("09201840");
         String currentPath = System.getProperty("user.dir");
         System.out.println("当前路径：" + currentPath);
         Scanner sc = new Scanner(System.in);
