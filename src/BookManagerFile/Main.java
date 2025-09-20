@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         System.out.println("git update");
+        System.out.println("feature/20250920");
+        System.out.println("debug message , do not commit!!!");
         String currentPath = System.getProperty("user.dir");
         System.out.println("当前路径：" + currentPath);
         Scanner sc = new Scanner(System.in);
